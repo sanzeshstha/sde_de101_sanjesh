@@ -17,6 +17,7 @@ Introduction
 Data engineering is a relatively new field, and as such, there is a huge variance in the actual job responsibilities across different companies. If you are a student, analyst, engineer, or new to the data space and
 
 > Unclear with data engineers’ job responsibilities
+
 > Believe that the current state of a data engineer’s job description is messy
 
 Then this post is for you. In this post, we cover the 6 key responsibilities of a data engineer.
