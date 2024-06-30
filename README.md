@@ -6,3 +6,7 @@ The rest are practise lessons and assignements.
 
 1. [Data Engineer's Responsibilities](/1-what-do-data-engineers-do/blog.md)
 2. [Lesson 1](/lesson%201/notes.md)
+3. [Lesson 2](/lesson%202/)
+4. [Lession 3](/lesson%203/)
+    - [Basics](/lesson%203/1-basics-answers.py)
+    - [Extract-Load](/lesson%203/2-data-extract-load-answers.py) 
