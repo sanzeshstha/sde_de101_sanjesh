@@ -20,4 +20,4 @@
 6. **_Review and sign off_** : Finally, I would review the requirements with the stakeholders and obtain their sign-off to ensure that the project aligns with their needs.
 
 
-_PS_ : I may have used some points from large language models and most of it using my known experience nad knowledge. 
+_PS_ : I may have used some points from large language models and most of it using my known experience and knowledge. 
